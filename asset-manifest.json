@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/keepclone/static/css/main.02196de4.css",
+    "main.js": "/keepclone/static/js/main.9b6db439.js",
+    "static/media/logo.png": "/keepclone/static/media/logo.a81f777bd2a22df30148.png",
+    "index.html": "/keepclone/index.html",
+    "main.02196de4.css.map": "/keepclone/static/css/main.02196de4.css.map",
+    "main.9b6db439.js.map": "/keepclone/static/js/main.9b6db439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02196de4.css",
+    "static/js/main.9b6db439.js"
+  ]
+}
